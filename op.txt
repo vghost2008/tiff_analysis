@@ -1,0 +1,117 @@
+HEAD, 49 49 2a 00 64 c2 b5 12 , ifd offset=313901668
+HEAD, 49 49 2a 00 64 c2 b5 12 , ifd offset=313901668
+IFD DE nr: 15
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=69065|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=54988|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=313901854|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=33003|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=590, value=Aperio Image Library v10.2.41
+72000x55088 [0,100 69065x54988] (256x256) J2K/YUV16 Q=70|AppMag = 40|StripeWidth = 1000|ScanScope ID = SS1302|Filename = 27736|Date = 01/06/12|Time = 19:31:08|Time Zone = GMT-07:00|User = 620d6518-5e97-424d-9781-f683e5e1adf0|Parmset = EPC|MPP = 0.2520|Left = 27.982994|Top = 18.234829|LineCameraSkew = -0.000389|LineAreaXOffset = 0.000000|LineAreaYOffset = 0.000000|Focus Offset = 0.000000|DSR ID = aperio01|ImageID = 27736|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 72000|OriginalHeight = 55088|ICC Profile = ScanScope v1|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=58050, value_or_offset=313902450|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=58050, value_or_offset=314134650|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=73 87 00 00 \34675, type=DT_UNDEFINED, count=141992, value_or_offset=314366850|
+IFD DE nr: 15
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=964|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=768|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=314757698|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=558, value=Aperio Image Library v10.2.41
+69065x54988 -> 964x768 - |AppMag = 40|StripeWidth = 1000|ScanScope ID = SS1302|Filename = 27736|Date = 01/06/12|Time = 19:31:08|Time Zone = GMT-07:00|User = 620d6518-5e97-424d-9781-f683e5e1adf0|Parmset = EPC|MPP = 0.2520|Left = 27.982994|Top = 18.234829|LineCameraSkew = -0.000389|LineAreaXOffset = 0.000000|LineAreaYOffset = 0.000000|Focus Offset = 0.000000|DSR ID = aperio01|ImageID = 27736|Exposure Time = 109|Exposure Scale = 0.000001|DisplayColor = 0|OriginalWidth = 72000|OriginalHeight = 55088|ICC Profile = ScanScope v1|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=48, value_or_offset=314758262|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_SHORT, count=1, value_or_offset=16|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=48, value_or_offset=314758454|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_JPEGTABLES, type=DT_UNDEFINED, count=289, value_or_offset=314758646|
+DE, name=12 02 00 00 \530, type=DT_SHORT, count=2, value_or_offset=131074|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=17266|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=13747|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=355168270|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=33003|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=103, value=Aperio Image Library v10.2.41
+72000x55088 [0,100 69065x54988] (256x256) -> 17266x13747 J2K/YUV16 Q=70|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=3672, value_or_offset=355168380|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=3672, value_or_offset=355183068|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=4316|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=3436|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=358284928|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=33003|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=101, value=Aperio Image Library v10.2.41
+72000x55088 [0,100 69065x54988] (256x256) -> 4316x3436 J2K/YUV16 Q=70|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=238, value_or_offset=358285036|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=238, value_or_offset=358285988|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=2158|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=1718|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=359059390|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=33003|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=101, value=Aperio Image Library v10.2.41
+72000x55088 [0,100 69065x54988] (256x256) -> 2158x1718 J2K/YUV16 Q=70|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_SHORT, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=63, value_or_offset=359059498|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=63, value_or_offset=359059750|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=401|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=321|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=359319830|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=5|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=44, value=Aperio Image Library v10.2.41
+label 401x321|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=54, value_or_offset=359319880|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_SHORT, count=1, value_or_offset=6|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=54, value_or_offset=359320096|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=3d 01 00 00 \317, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+IFD DE nr: 15
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=9|
+DE, name=IFD_IMAGE_WIDTH, type=DT_SHORT, count=1, value_or_offset=1280|
+DE, name=IFD_IMAGE_LENGTH, type=DT_SHORT, count=1, value_or_offset=431|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_SHORT, count=3, value_or_offset=359407512|
+DE, name=IFD_COMPRESSION, type=DT_SHORT, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_SHORT, count=1, value_or_offset=2|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=45, value=Aperio Image Library v10.2.41
+macro 1280x431|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=27, value_or_offset=359407564|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_SHORT, count=1, value_or_offset=3|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_SHORT, count=1, value_or_offset=16|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=27, value_or_offset=359407672|
+DE, name=IFD_PLANARCONFIG, type=DT_SHORT, count=1, value_or_offset=1|
+DE, name=IFD_JPEGTABLES, type=DT_UNDEFINED, count=289, value_or_offset=359407780|
+DE, name=12 02 00 00 \530, type=DT_SHORT, count=2, value_or_offset=131074|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|

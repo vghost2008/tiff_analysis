@@ -1,0 +1,169 @@
+HEAD, 49 49 2a 00 b1 38 f4 5f , ifd offset=1609840817
+HEAD, 49 49 2a 00 b1 38 f4 5f , ifd offset=1609840817
+IFD DE nr: 16
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=2|
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=74034|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=67579|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1609841015|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=76560, value_or_offset=1609841027|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=76560, value_or_offset=1610147267|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=114, value=Aperio Format Scanned By KFBIO
+74034x67579 [0,0 74034x67579] (256x256), JPEG/RGB Q=20|AppMag = 40|MPP = 0.248124|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=0|
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=1188|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=1060|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610453801|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=2|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_LONG, count=1, value_or_offset=1060|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=1, value_or_offset=1595048886|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=1, value_or_offset=3777840|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=10, value=thumbnail|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=37017|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=33789|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610454009|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=19140, value_or_offset=1610454021|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=19140, value_or_offset=1610530581|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=18508|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=16894|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610607371|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=4818, value_or_offset=1610607383|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=4818, value_or_offset=1610626655|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=9254|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=8447|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610646157|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=1221, value_or_offset=1610646169|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=1221, value_or_offset=1610651053|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=4627|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=4223|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610656167|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=323, value_or_offset=1610656179|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=323, value_or_offset=1610657471|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=2313|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=2111|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610658993|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=90, value_or_offset=1610659005|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=90, value_or_offset=1610659365|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 15
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=1156|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=1055|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610659955|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=7|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=6|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_TILEWIDTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILELENGTH, type=DT_LONG, count=1, value_or_offset=256|
+DE, name=IFD_TILEOFFSETS, type=DT_LONG, count=25, value_or_offset=1610659967|
+DE, name=IFD_TILEBYTECOUNTS, type=DT_LONG, count=25, value_or_offset=1610660067|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=38, value=Aperio Format Scanned By KFBIO
+v11.2|
+DE, name=IFD_ARTIST, type=DT_ASCII, count=6, value=KFBIO|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=828|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=692|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610660385|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=2|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_LONG, count=1, value_or_offset=692|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=1, value_or_offset=1604625857|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=1, value_or_offset=1718928|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=21, value=KFBIO 
+label 828x692|
+IFD DE nr: 14
+DE, name=IFD_NEW_SUB_FILE_TYPE, type=DT_LONG, count=1, value_or_offset=9|
+DE, name=IFD_IMAGE_WIDTH, type=DT_LONG, count=1, value_or_offset=1464|
+DE, name=IFD_IMAGE_LENGTH, type=DT_LONG, count=1, value_or_offset=796|
+DE, name=IFD_ORIENTATION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_BITS_PER_SAMPLE, type=DT_LONG, count=3, value_or_offset=1610660592|
+DE, name=IFD_SAMPLES_PER_PIXEL, type=DT_LONG, count=1, value_or_offset=3|
+DE, name=IFD_COMPRESSION, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_PHOTOMETRIC_INTERPRETATION, type=DT_LONG, count=1, value_or_offset=2|
+DE, name=IFD_PLANARCONFIG, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_IMAGEDEPTH, type=DT_LONG, count=1, value_or_offset=1|
+DE, name=IFD_ROWS_PER_STRIP, type=DT_LONG, count=1, value_or_offset=796|
+DE, name=IFD_SCRIP_OFFSET, type=DT_LONG, count=1, value_or_offset=1606344785|
+DE, name=IFD_SCRIP_BYTE_COUNTS, type=DT_LONG, count=1, value_or_offset=3496032|
+DE, name=IFD_IMAGEDESCRIPTION, type=DT_ASCII, count=22, value=KFBIO 
+macro 1464x796|
